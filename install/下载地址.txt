@@ -1,0 +1,1 @@
+https://mirrors.tuna.tsinghua.edu.cn/apache/skywalking/8.0.1/
